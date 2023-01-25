@@ -1,0 +1,14 @@
+
+.cell {
+    border: 1px solid black;
+    min-width: 10px;
+    min-height: 10px;
+    display: inline-block;
+  }
+
+  .gridRow{
+      display: flex;
+      justify-content: center;
+  }
+
+ 
